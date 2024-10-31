@@ -1,0 +1,81 @@
+2024-10-31 16:02:08.107 |DEBUG   | __main__ : 测试:  18 | mymodule | - this is debug
+2024-10-31 16:02:08.107 |INFO    | __main__ : 测试:  19 | mymodule | - this is info
+2024-10-31 16:02:08.107 |WARNING | __main__ : 测试:  20 | mymodule | - this is warning
+2024-10-31 16:02:08.107 |ERROR   | __main__ : 测试:  21 | mymodule | - this is error
+2024-10-31 16:02:08.107 |CRITICAL| __main__ : 测试:  22 | mymodule | - this is critical
+2024-10-31 16:03:20.543 |DEBUG   | 测试 : 测试:  18 | mymodule | - this is debug
+2024-10-31 16:03:20.543 |INFO    | 测试 : 测试:  19 | mymodule | - this is info
+2024-10-31 16:03:20.543 |WARNING | 测试 : 测试:  20 | mymodule | - this is warning
+2024-10-31 16:03:20.543 |ERROR   | 测试 : 测试:  21 | mymodule | - this is error
+2024-10-31 16:03:20.543 |CRITICAL| 测试 : 测试:  22 | mymodule | - this is critical
+2024-10-31 16:03:20.544 |DEBUG   | __main__ : 测试2:   3 | mymodule | - this is debug
+2024-10-31 16:03:20.544 |INFO    | __main__ : 测试2:   4 | mymodule | - this is info
+2024-10-31 16:03:20.544 |WARNING | __main__ : 测试2:   5 | mymodule | - this is warning
+2024-10-31 16:03:20.544 |ERROR   | __main__ : 测试2:   6 | mymodule | - this is error
+2024-10-31 16:03:20.544 |CRITICAL| __main__ : 测试2:   7 | mymodule | - this is critical
+2024-10-31 16:03:41.553 |DEBUG   | __main__ : 测试2:   3 | mymodule | - this is debug
+2024-10-31 16:03:41.553 |INFO    | __main__ : 测试2:   4 | mymodule | - this is info
+2024-10-31 16:03:41.553 |WARNING | __main__ : 测试2:   5 | mymodule | - this is warning
+2024-10-31 16:03:41.554 |ERROR   | __main__ : 测试2:   6 | mymodule | - this is error
+2024-10-31 16:03:41.554 |CRITICAL| __main__ : 测试2:   7 | mymodule | - this is critical
+2024-10-31 16:05:13.246 |DEBUG   | __main__ : 测试2:   2 | mymodule | - this is debug
+2024-10-31 16:05:13.246 |INFO    | __main__ : 测试2:   3 | mymodule | - this is info
+2024-10-31 16:05:13.247 |WARNING | __main__ : 测试2:   4 | mymodule | - this is warning
+2024-10-31 16:05:13.247 |ERROR   | __main__ : 测试2:   5 | mymodule | - this is error
+2024-10-31 16:05:13.247 |CRITICAL| __main__ : 测试2:   6 | mymodule | - this is critical
+2024-10-31 16:06:47.934 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 16:06:47.934 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 16:09:35.672 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 16:09:35.672 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 16:09:35.672 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31T20:21:20.158341+0800 |SUCCESS| __main__ : 测试2:  30 | MyModule | - ✅ This is a success message2024-10-31T20:21:20.158341+0800 |ERROR| __main__ : 测试2:  31 | MyModule | - ❌ This is an error message2024-10-31T20:21:20.158341+0800 |INFO| __main__ : 测试2:  32 | MyModule | - 🚀 This is an info message2024-10-31 at 20:24:34 | INFO | 🚀 Function %s is starting. | loggerr
+2024-10-31 at 20:24:34 | INFO | This is an info message. | loggerr
+2024-10-31 at 20:24:34 | SUCCESS | ✅ This is a success message. | loggerr
+2024-10-31 at 20:24:34 | SUCCESS | ✅ Function %s completed successfully. | loggerr
+2024-10-31 20:25:55.424 | SUCCESS  | loggerr.py:33 - ✅ This is a success message
+2024-10-31 20:25:55.425 | ERROR    | loggerr.py:33 - ❌ This is an error message
+2024-10-31 20:25:55.425 | INFO     | loggerr.py:33 - 🚀 This is an info message
+2024-10-31 20:26:31.702 | SUCCESS  | loggerr.py:34 - ✅ This is a success message
+2024-10-31 20:26:31.716 | ERROR    | loggerr.py:34 - ❌ This is an error message
+2024-10-31 20:26:31.717 | INFO     | loggerr.py:34 - 🚀 This is an info message
+2024-10-31 20:26:37.275 | SUCCESS  | loggerr.py:34 - ✅ This is a success message
+2024-10-31 20:26:37.289 | ERROR    | loggerr.py:34 - ❌ This is an error message
+2024-10-31 20:26:37.289 | INFO     | loggerr.py:34 - 🚀 This is an info message
+2024-10-31 20:28:37.558 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:28:37.559 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:28:37.559 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31 20:28:47.830 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:28:47.834 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:28:47.834 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31 20:30:28.086 | DEBUG    | 测试2.py:3 - this is hello, module is my-loguru
+2024-10-31 20:30:28.087 | INFO     | 测试2.py:6 - this is hello, module is my-loguru2
+2024-10-31 20:30:28.087 | SUCCESS  | 测试2.py:7 - ss
+2024-10-31 20:30:52.172 | DEBUG    | loggerr.py:37 - 🚀 this is hello, module is my-loguru
+2024-10-31 20:30:52.187 | INFO     | 测试2.py:6 - this is hello, module is my-loguru2
+2024-10-31 20:31:03.494 | DEBUG    | 测试2.py:3 - this is hello, module is my-loguru
+2024-10-31 20:31:03.495 | INFO     | 测试2.py:6 - this is hello, module is my-loguru2
+2024-10-31 20:31:03.495 | SUCCESS  | 测试2.py:7 - ss
+2024-10-31 20:31:31.807 | DEBUG    | 测试2.py:3 - this is hello, module is my-loguru
+2024-10-31 20:31:31.821 | INFO     | 测试2.py:6 - this is hello, module is my-loguru2
+2024-10-31 20:31:31.821 | SUCCESS  | 测试2.py:7 - ss
+2024-10-31 20:31:50.082 | DEBUG    | 测试2.py:3 - this is hello, module is my-loguru
+2024-10-31 20:31:50.098 | INFO     | 测试2.py:6 - this is hello, module is my-loguru2
+2024-10-31 20:31:50.098 | SUCCESS  | 测试2.py:7 - ss
+2024-10-31 20:32:10.115 | DEBUG    | 测试2.py:3 - this is hello, module is my-loguru
+2024-10-31 20:32:10.129 | INFO     | 测试2.py:6 - this is hello, module is my-loguru2
+2024-10-31 20:32:10.131 | SUCCESS  | 测试2.py:7 - ss
+2024-10-31 20:34:59.155 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:34:59.157 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:34:59.157 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31 20:38:54.773 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:38:54.787 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:38:54.788 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31 20:39:23.596 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:39:23.598 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:39:23.598 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31 20:39:24.129 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:39:24.130 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:39:24.131 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss
+2024-10-31 20:39:40.986 |DEBUG   | __main__ : 测试2:   3 | my-loguru | - this is hello, module is my-loguru
+2024-10-31 20:39:41.000 |INFO    | __main__ : 测试2:   6 | my-loguru2 | - this is hello, module is my-loguru2
+2024-10-31 20:39:41.001 |SUCCESS | __main__ : 测试2:   7 | my-loguru | - ss

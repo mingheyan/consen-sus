@@ -7,7 +7,7 @@ from datasets import load_dataset
 import tkinter as tk
 from tkinter import filedialog
 # 设置 FFmpeg 的路径
-os.environ["PATH"] += os.pathsep + r"D:\syh\ffmpeg-2024-10-13-git-e347b4ff31-essentials_build\bin"
+# os.environ["PATH"] += os.pathsep + r"D:\syh\ffmpeg-2024-10-13-git-e347b4ff31-essentials_build\bin"
 
 
 

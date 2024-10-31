@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
-
+import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -38,12 +38,15 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "celery_dome.apps.CeleryDomeConfig",
+    "apps.celery_dome.apps.CeleryDomeConfig",
 'django_celery_beat',
 'django_celery_results',
+    "apps.users.apps.UsersConfig",
+'corsheaders',
 ]
 
 MIDDLEWARE = [
+'corsheaders.middleware.CorsMiddleware',
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -127,6 +130,72 @@ STATIC_URL = "static/"
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
+#redis仓库
+CACHES = {
+ "default": { # 默认
+"BACKEND": "django_redis.cache.RedisCache",
+"LOCATION": "redis://127.0.0.1:6379/0",
+"OPTIONS": {
+"CLIENT_CLASS": "django_redis.client.DefaultClient",
+}
+ },
+"session": { # session
+"BACKEND": "django_redis.cache.RedisCache",
+"LOCATION": "redis://127.0.0.1:6379/1",
+"OPTIONS": {
+"CLIENT_CLASS": "django_redis.client.DefaultClient",
+ }
+ },
+}
+SESSION_ENGINE = "django.contrib.sessions.backends.cache"
+SESSION_CACHE_ALIAS = "session"
+
+#logger日志
+
+import os
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,  # 是否禁用已经存在的日志器
+    'formatters': {  # 日志信息显示的格式
+        'verbose': {
+            'format': '%(levelname)s %(asctime)s %(module)s %(lineno)d %(message)s'
+        },
+        'simple': {
+            'format': '%(levelname)s %(module)s %(lineno)d %(message)s'
+        },
+    },
+    'filters': {  # 对日志进行过滤
+        'require_debug_true': {
+            '()': 'django.utils.log.RequireDebugTrue',
+        },
+    },
+    'handlers': {  # 日志处理方法
+        'console': {  # 向终端中输出日志
+            'level': 'INFO',
+            'filters': ['require_debug_true'],
+            'class': 'logging.StreamHandler',
+            'formatter': 'simple'
+        },
+        'file': {  # 向文件中输出日志
+            'level': 'INFO',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'filename': os.path.join(BASE_DIR, 'logs/meiduo.log'),  # 日志文件的位置
+            'maxBytes': 300 * 1024 * 1024,
+            'backupCount': 10,
+            'formatter': 'verbose'
+        },
+    },
+    'loggers': {  # 日志器
+        'django': {  # 定义了一个名为django的日志器
+            'handlers': ['console', 'file'],  # 可以同时向终端与文件中输出日志
+            'propagate': True,  # 是否继续传递日志信息
+            'level': 'INFO',  # 日志器接收的最低日志级别
+        },
+    }
+}
+#用户模型类
+AUTH_USER_MODEL= "users.User"
+
 ############# celery的配置信息######
 #1 Broker配置，使用Redis作为消息中间件
 BROKER_URL = 'redis://127.0.0.1:6379/8'
@@ -167,10 +236,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': '舆论系统', # 去mysql中创建数据库
-        'HOST':'localhost',
+        'HOST':'127.0.0.1',
         'PORT':3306,
         'USER':'root',
-        'PASSWORD':'root' # 自己写自己的密码,
+        'PASSWORD':'321542' # 自己写自己的密码,
 
     }
 }
@@ -190,3 +259,20 @@ DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 DEFAULT_FROM_EMAIL = '罔闻<3215421266@qq.com>'
 EMAIL_USE_SSL = True   #使用ssl
 #EMAIL_USE_TLS = False # 使用tls
+
+
+#解决跨域
+# CORS
+CORS_ORIGIN_WHITELIST = (
+'http://127.0.0.1:8080',
+'http://localhost:8080',
+'http://127.0.0.1:8000'
+)
+CORS_ALLOW_CREDENTIALS = True# 允许携带cookie
+
+
+
+
+# 在 Django 中使用 loguru
+# 例如，可以在视图中使用 logger
+
