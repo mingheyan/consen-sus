@@ -167,7 +167,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': '舆论系统', # 去mysql中创建数据库
-        'HOST':'172.20.203.13',
+        'HOST':'localhost',
         'PORT':3306,
         'USER':'root',
         'PASSWORD':'root' # 自己写自己的密码,
