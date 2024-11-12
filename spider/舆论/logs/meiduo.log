@@ -2,4 +2,419 @@ INFO 2024-10-31 15:51:23,663 autoreload 668 Watching for file changes with StatR
 INFO 2024-10-31 16:27:56,445 autoreload 668 Watching for file changes with StatReloader
 INFO 2024-10-31 16:28:05,947 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\舆论\settings.py changed, reloading.
 INFO 2024-10-31 16:28:06,953 autoreload 668 Watching for file changes with StatReloader
-INFO 2024-10-31 20:51:52,195 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:37:16,325 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:40:23,193 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 13:40:24,479 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:41:19,958 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:48:35,563 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\celery_dome\tasks.py changed, reloading.
+INFO 2024-11-01 13:48:36,982 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:49:41,143 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\urls.py changed, reloading.
+INFO 2024-11-01 13:49:42,183 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:49:56,303 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-01 13:49:58,406 log 248 Not Found: /
+WARNING 2024-11-01 13:49:58,406 basehttp 213 "GET / HTTP/1.1" 404 2820
+WARNING 2024-11-01 13:49:58,425 log 248 Not Found: /
+WARNING 2024-11-01 13:49:58,425 basehttp 213 "GET / HTTP/1.1" 404 2820
+WARNING 2024-11-01 13:49:59,021 log 248 Not Found: /favicon.ico
+WARNING 2024-11-01 13:49:59,022 basehttp 213 "GET /favicon.ico HTTP/1.1" 404 2871
+WARNING 2024-11-01 13:50:08,203 log 248 Not Found: /strat
+WARNING 2024-11-01 13:50:08,204 basehttp 213 "GET /strat HTTP/1.1" 404 2853
+INFO 2024-11-01 13:50:14,785 basehttp 213 "GET /start HTTP/1.1" 301 0
+INFO 2024-11-01 13:50:14,794 basehttp 213 "GET /start/ HTTP/1.1" 200 27
+INFO 2024-11-01 13:51:16,865 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 13:51:17,147 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 13:51:18,226 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:51:18,285 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:57:23,569 basehttp 213 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-01 13:57:23,584 basehttp 213 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4074
+INFO 2024-11-01 13:57:23,622 basehttp 213 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,624 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,624 basehttp 213 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,628 basehttp 213 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,630 basehttp 213 "GET /static/admin/simpleui-x/js/vue.min.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,643 basehttp 213 "GET /static/admin/simpleui-x/elementui/index.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,643 basehttp 213 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,644 basehttp 213 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,645 basehttp 213 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,648 basehttp 213 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:23,697 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:26,182 basehttp 213 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,329 basehttp 213 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-01 13:57:28,361 basehttp 213 "GET /admin/ HTTP/1.1" 200 19917
+INFO 2024-11-01 13:57:28,402 basehttp 213 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,405 basehttp 213 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,411 basehttp 213 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,413 basehttp 213 "GET /static/admin/simpleui-x/automatic/segment.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,413 basehttp 213 "GET /static/admin/simpleui-x/locale/en-us.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,413 basehttp 213 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,414 basehttp 213 "GET /static/admin/simpleui-x/js/cookie.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,414 basehttp 213 "GET /static/admin/simpleui-x/theme/theme.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,417 basehttp 213 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,419 basehttp 213 "GET /static/admin/simpleui-x/js/menu.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,420 basehttp 213 "GET /static/admin/simpleui-x/js/index.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,543 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,543 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:28,543 basehttp 213 "GET /static/admin/simpleui-x/theme/aircraft.css HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,101 basehttp 213 "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 46340
+INFO 2024-11-01 13:57:30,123 basehttp 213 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,135 basehttp 213 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,135 basehttp 213 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,135 basehttp 213 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,135 basehttp 213 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,140 basehttp 213 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,140 basehttp 213 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,141 basehttp 213 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,142 basehttp 213 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,144 basehttp 213 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,149 basehttp 213 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,150 basehttp 213 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,153 basehttp 213 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,154 basehttp 213 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,159 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:57:30,160 basehttp 213 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,161 basehttp 213 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,161 basehttp 213 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,164 basehttp 213 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,165 basehttp 213 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,166 basehttp 213 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,167 basehttp 213 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:30,170 basehttp 213 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:32,147 basehttp 213 "GET /admin/django_celery_beat/clockedschedule/ HTTP/1.1" 200 25768
+INFO 2024-11-01 13:57:32,174 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:57:32,263 basehttp 213 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:57:32,860 basehttp 213 "GET /admin/django_celery_beat/solarschedule/ HTTP/1.1" 200 25308
+INFO 2024-11-01 13:57:32,886 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:59:04,637 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\celery_dome\tasks.py changed, reloading.
+INFO 2024-11-01 13:59:04,893 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\celery_dome\tasks.py changed, reloading.
+INFO 2024-11-01 13:59:05,529 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:59:05,822 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 13:59:25,635 basehttp 213 "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 33447
+INFO 2024-11-01 13:59:25,659 basehttp 213 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 39372
+INFO 2024-11-01 13:59:25,671 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:59:25,710 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:59:30,154 basehttp 213 "GET /admin/django_celery_beat/periodictask/add/ HTTP/1.1" 200 29021
+INFO 2024-11-01 13:59:30,178 basehttp 213 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,179 basehttp 213 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,179 basehttp 213 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,183 basehttp 213 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,185 basehttp 213 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,185 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:59:30,201 basehttp 213 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,205 basehttp 213 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,208 basehttp 213 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,227 basehttp 213 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,296 basehttp 213 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:30,297 basehttp 213 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:45,923 basehttp 213 "GET /admin/django_celery_beat/intervalschedule/add/?_to_field=id&_popup=1 HTTP/1.1" 200 12666
+INFO 2024-11-01 13:59:45,972 basehttp 213 "GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:45,975 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 13:59:46,001 basehttp 213 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+INFO 2024-11-01 13:59:55,522 basehttp 213 "POST /admin/django_celery_beat/intervalschedule/add/?_to_field=id&_popup=1 HTTP/1.1" 200 329
+INFO 2024-11-01 13:59:55,640 basehttp 213 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 532
+INFO 2024-11-01 14:00:02,960 basehttp 213 "POST /admin/django_celery_beat/periodictask/add/ HTTP/1.1" 200 29507
+INFO 2024-11-01 14:00:03,002 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 14:00:20,107 basehttp 213 "POST /admin/django_celery_beat/periodictask/add/ HTTP/1.1" 302 0
+INFO 2024-11-01 14:00:20,148 basehttp 213 "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 47713
+INFO 2024-11-01 14:00:20,181 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 14:02:53,770 basehttp 213 "POST /admin/django_celery_beat/periodictask/ HTTP/1.1" 302 0
+INFO 2024-11-01 14:02:53,793 basehttp 213 "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 47569
+INFO 2024-11-01 14:02:53,821 basehttp 213 "GET /admin/jsi18n/ HTTP/1.1" 200 9327
+INFO 2024-11-01 14:03:08,392 basehttp 213 "GET /start/ HTTP/1.1" 200 27
+INFO 2024-11-01 14:26:19,698 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:26:19,711 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:26:20,996 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:26:20,996 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:28:11,501 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:28:11,594 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:28:12,455 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:28:12,630 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:28:29,206 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:28:29,663 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:28:30,201 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:28:30,606 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:29:09,941 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:29:10,090 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:29:10,871 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:29:11,030 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:29:12,694 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:29:13,287 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:29:13,653 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:29:14,202 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:29:54,459 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:29:54,552 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:29:55,450 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:29:55,526 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:30:05,723 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:30:06,398 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:30:06,678 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:30:07,361 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:30:27,564 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:30:27,760 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-01 14:30:28,544 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-01 14:30:28,710 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-01 14:30:30,220 log 248 Not Found: /
+WARNING 2024-11-01 14:30:30,221 basehttp 213 "GET / HTTP/1.1" 404 2820
+WARNING 2024-11-01 14:30:30,227 log 248 Not Found: /
+WARNING 2024-11-01 14:30:30,228 basehttp 213 "GET / HTTP/1.1" 404 2820
+INFO 2024-11-01 14:30:36,192 basehttp 213 "GET /start/ HTTP/1.1" 200 123
+INFO 2024-11-01 14:30:41,191 basehttp 213 "GET /start/ HTTP/1.1" 200 123
+INFO 2024-11-01 14:30:54,169 basehttp 213 "GET /start/ HTTP/1.1" 200 123
+INFO 2024-11-01 14:30:54,533 basehttp 213 "GET /start/ HTTP/1.1" 200 123
+INFO 2024-11-01 14:30:56,178 basehttp 213 "GET /start/ HTTP/1.1" 200 126
+INFO 2024-11-01 14:30:57,180 basehttp 213 "GET /start/ HTTP/1.1" 200 131
+INFO 2024-11-01 14:30:58,160 basehttp 213 "GET /start/ HTTP/1.1" 200 134
+INFO 2024-11-01 14:31:00,156 basehttp 213 "GET /start/ HTTP/1.1" 200 134
+INFO 2024-11-03 16:50:43,964 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 16:50:44,686 basehttp 213 "GET /start/ HTTP/1.1" 200 134
+WARNING 2024-11-03 16:51:46,221 log 248 Not Found: /image_codes/018d0f4c-be94-4d1d-811d-3257e708095d/
+WARNING 2024-11-03 16:51:46,222 basehttp 213 "GET /image_codes/018d0f4c-be94-4d1d-811d-3257e708095d/ HTTP/1.1" 404 2985
+WARNING 2024-11-03 16:51:54,088 log 248 Not Found: /image_codes/23e4abcb-fed8-4d56-a975-4cb306a53905/
+WARNING 2024-11-03 16:51:54,089 basehttp 213 "GET /image_codes/23e4abcb-fed8-4d56-a975-4cb306a53905/ HTTP/1.1" 404 2985
+WARNING 2024-11-03 19:55:45,770 log 248 Not Found: /
+WARNING 2024-11-03 19:55:45,773 basehttp 213 "GET / HTTP/1.1" 404 2820
+WARNING 2024-11-03 19:55:45,778 log 248 Not Found: /
+WARNING 2024-11-03 19:55:45,780 basehttp 213 "GET / HTTP/1.1" 404 2820
+WARNING 2024-11-03 19:55:46,443 log 248 Not Found: /favicon.ico
+WARNING 2024-11-03 19:55:46,444 basehttp 213 "GET /favicon.ico HTTP/1.1" 404 2871
+INFO 2024-11-03 19:56:30,966 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\urls.py changed, reloading.
+INFO 2024-11-03 19:56:32,680 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 19:56:55,314 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 19:56:57,070 log 248 Not Found: /
+WARNING 2024-11-03 19:56:57,072 basehttp 213 "GET / HTTP/1.1" 404 3059
+WARNING 2024-11-03 19:56:57,076 log 248 Not Found: /
+WARNING 2024-11-03 19:56:57,077 basehttp 213 "GET / HTTP/1.1" 404 3059
+INFO 2024-11-03 19:57:03,039 basehttp 213 "GET /index HTTP/1.1" 301 0
+ERROR 2024-11-03 19:57:03,105 log 248 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: index() takes 0 positional arguments but 1 was given
+ERROR 2024-11-03 19:57:03,107 basehttp 213 "GET /index/ HTTP/1.1" 500 71609
+INFO 2024-11-03 19:58:03,940 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-03 19:58:04,932 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 19:58:07,783 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\urls.py changed, reloading.
+INFO 2024-11-03 19:58:09,269 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-11-03 19:58:11,335 log 248 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: index() takes 0 positional arguments but 1 was given
+ERROR 2024-11-03 19:58:11,337 basehttp 213 "GET /index/ HTTP/1.1" 500 71746
+INFO 2024-11-03 19:58:21,552 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 19:58:23,452 log 248 Not Found: /
+WARNING 2024-11-03 19:58:23,453 basehttp 213 "GET / HTTP/1.1" 404 3059
+WARNING 2024-11-03 19:58:23,457 log 248 Not Found: /
+WARNING 2024-11-03 19:58:23,458 basehttp 213 "GET / HTTP/1.1" 404 3059
+INFO 2024-11-03 19:58:28,262 basehttp 213 "GET /admin/ HTTP/1.1" 200 20923
+INFO 2024-11-03 19:58:28,315 basehttp 213 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,317 basehttp 213 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,317 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,319 basehttp 213 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,326 basehttp 213 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,326 basehttp 213 "GET /static/admin/simpleui-x/js/vue.min.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,327 basehttp 213 "GET /static/admin/simpleui-x/elementui/index.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,329 basehttp 213 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,330 basehttp 213 "GET /static/admin/simpleui-x/automatic/segment.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,331 basehttp 213 "GET /static/admin/simpleui-x/locale/en-us.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,336 basehttp 213 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,337 basehttp 213 "GET /static/admin/simpleui-x/js/cookie.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,337 basehttp 213 "GET /static/admin/simpleui-x/theme/theme.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,340 basehttp 213 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,340 basehttp 213 "GET /static/admin/simpleui-x/js/menu.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,342 basehttp 213 "GET /static/admin/simpleui-x/js/index.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,454 basehttp 213 "GET /static/admin/simpleui-x/theme/aircraft.css HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,482 basehttp 213 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,482 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,482 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-11-03 19:58:28,484 basehttp 213 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+ERROR 2024-11-03 19:58:34,030 log 248 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: index() takes 0 positional arguments but 1 was given
+ERROR 2024-11-03 19:58:34,032 basehttp 213 "GET /index/ HTTP/1.1" 500 71609
+ERROR 2024-11-03 19:58:56,616 log 248 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: index() takes 0 positional arguments but 1 was given
+ERROR 2024-11-03 19:58:56,617 basehttp 213 "GET /index/ HTTP/1.1" 500 71609
+INFO 2024-11-03 19:59:47,498 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\urls.py changed, reloading.
+INFO 2024-11-03 19:59:48,450 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 19:59:50,133 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\urls.py changed, reloading.
+INFO 2024-11-03 19:59:51,038 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 20:00:16,907 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-03 20:00:17,841 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-03 20:00:33,336 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\urls.py changed, reloading.
+INFO 2024-11-03 20:00:34,285 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-11-03 20:00:37,873 log 248 Not Found: /index/
+WARNING 2024-11-03 20:00:37,874 basehttp 213 "GET /index/ HTTP/1.1" 404 3098
+INFO 2024-11-03 20:00:45,247 basehttp 213 "GET /register HTTP/1.1" 301 0
+INFO 2024-11-03 20:00:45,254 basehttp 213 "GET /register/ HTTP/1.1" 200 27
+INFO 2024-11-03 20:04:15,415 basehttp 213 "GET /register/ HTTP/1.1" 200 27
+INFO 2024-11-03 20:05:17,252 basehttp 213 "GET /register/ HTTP/1.1" 200 27
+INFO 2024-11-04 18:30:52,494 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:30:52,834 basehttp 213 "GET /register/ HTTP/1.1" 200 27
+INFO 2024-11-04 18:31:29,572 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:31:30,624 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:35:33,371 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:35:34,753 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:35:54,549 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:35:55,490 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-11-04 18:37:57,996 log 248 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anacode\envs\sp\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anacode\envs\sp\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py", line 33, in get
+    password=request.get('password')
+AttributeError: 'WSGIRequest' object has no attribute 'get'
+ERROR 2024-11-04 18:37:57,998 basehttp 213 "GET /register/?username=s&email=s&password=ss HTTP/1.1" 500 82893
+INFO 2024-11-04 18:38:36,099 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:38:37,076 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:38:41,750 basehttp 213 "GET /register/?username=&email=&password= HTTP/1.1" 200 27
+INFO 2024-11-04 18:38:45,459 basehttp 213 "GET /register/?username=s&email=s&password=ss HTTP/1.1" 200 27
+INFO 2024-11-04 18:39:09,001 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:39:10,013 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:39:54,222 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:39:55,260 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:45:46,316 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:45:47,236 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:45:52,582 basehttp 213 "GET /register/?username=s&email=s&password=s HTTP/1.1" 200 27
+INFO 2024-11-04 18:45:59,955 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:46:00,901 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:46:06,081 basehttp 213 "GET /register/?username=s&email=s&password=ss HTTP/1.1" 200 27
+INFO 2024-11-04 18:46:47,925 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:46:48,910 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-11-04 18:46:53,161 log 248 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\anacode\envs\sp\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anacode\envs\sp\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anacode\envs\sp\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py", line 36, in get
+    json_dict = json.loads(json_str)  # 将JSON字符串，转成python的标准字典
+  File "D:\anacode\envs\sp\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "D:\anacode\envs\sp\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "D:\anacode\envs\sp\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2024-11-04 18:46:53,164 basehttp 213 "GET /register/?username=s&email=s&password=ss HTTP/1.1" 500 95644
+INFO 2024-11-04 18:47:48,742 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:47:49,746 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:49:04,807 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:49:05,823 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:57:13,437 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:57:14,809 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:57:24,035 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:57:25,011 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:57:40,716 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:57:41,749 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:57:46,636 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:57:47,673 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:58:09,476 basehttp 213 "GET /register/?username=s&email=s&password=ss HTTP/1.1" 200 27
+INFO 2024-11-04 18:58:48,214 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:59:30,579 basehttp 213 "GET /register/?username=s&email=s&password=ss HTTP/1.1" 200 27
+INFO 2024-11-04 18:59:46,603 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 18:59:47,547 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 18:59:56,478 basehttp 213 "GET /register/?username=ss&email=ss&password=ss HTTP/1.1" 200 19
+INFO 2024-11-04 19:00:33,325 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 19:00:34,342 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 19:00:43,717 basehttp 213 "GET /register/?username=ss&email=ss&password=ss HTTP/1.1" 200 19
+INFO 2024-11-04 19:04:28,311 basehttp 213 "GET /register/?username=ss&email=ss&password=ss HTTP/1.1" 200 19
+INFO 2024-11-04 19:04:51,244 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 19:04:52,105 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 19:04:55,864 autoreload 266 C:\Users\32154\Desktop\舆论系统\consen-sus-master\consen-sus-master\spider\舆论\apps\users\views.py changed, reloading.
+INFO 2024-11-04 19:04:56,829 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-04 19:05:02,820 basehttp 213 "GET /register/?username=ss&email=ss&password=ss HTTP/1.1" 200 27
+INFO 2024-11-06 15:46:16,176 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-11-06 16:36:55,898 autoreload 677 Watching for file changes with StatReloader
+INFO 2024-11-06 16:41:15,911 autoreload 677 Watching for file changes with StatReloader
+INFO 2024-11-06 16:44:30,964 autoreload 677 Watching for file changes with StatReloader
+WARNING 2024-11-06 16:44:49,394 log 241 Not Found: /
+WARNING 2024-11-06 16:44:49,395 basehttp 187 "GET / HTTP/1.1" 404 2663
+WARNING 2024-11-06 16:44:49,406 log 241 Not Found: /
+WARNING 2024-11-06 16:44:49,406 basehttp 187 "GET / HTTP/1.1" 404 2663
+WARNING 2024-11-06 16:44:49,413 log 241 Not Found: /
+WARNING 2024-11-06 16:44:49,413 basehttp 187 "GET / HTTP/1.1" 404 2663
+WARNING 2024-11-06 16:44:49,987 log 241 Not Found: /favicon.ico
+WARNING 2024-11-06 16:44:49,988 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2714
+INFO 2024-11-06 16:44:56,937 basehttp 187 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-06 16:44:56,952 basehttp 187 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4074
+INFO 2024-11-06 16:44:56,987 basehttp 187 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-11-06 16:44:56,990 basehttp 187 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-11-06 16:44:56,992 basehttp 187 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-11-06 16:44:56,993 basehttp 187 "GET /static/admin/simpleui-x/js/vue.min.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:44:56,996 basehttp 187 "GET /static/admin/simpleui-x/elementui/index.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:44:57,065 basehttp 187 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-11-06 16:44:57,069 basehttp 187 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-11-06 16:44:57,071 basehttp 187 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-11-06 16:44:57,082 basehttp 187 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-11-06 16:44:57,086 basehttp 187 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-11-06 16:44:57,125 basehttp 187 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:00,828 basehttp 187 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,313 basehttp 187 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-06 16:45:04,348 basehttp 187 "GET /admin/ HTTP/1.1" 200 20935
+INFO 2024-11-06 16:45:04,382 basehttp 187 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,382 basehttp 187 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,382 basehttp 187 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,382 basehttp 187 "GET /static/admin/simpleui-x/automatic/segment.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,399 basehttp 187 "GET /static/admin/simpleui-x/locale/en-us.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,401 basehttp 187 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,401 basehttp 187 "GET /static/admin/simpleui-x/js/cookie.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,401 basehttp 187 "GET /static/admin/simpleui-x/js/menu.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,401 basehttp 187 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,401 basehttp 187 "GET /static/admin/simpleui-x/theme/theme.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,406 basehttp 187 "GET /static/admin/simpleui-x/js/index.js?_=2024.8.28 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,469 basehttp 187 "GET /static/admin/simpleui-x/theme/aircraft.css HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,491 basehttp 187 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:04,491 basehttp 187 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,081 basehttp 187 "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 47292
+INFO 2024-11-06 16:45:07,104 basehttp 187 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,105 basehttp 187 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,106 basehttp 187 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,106 basehttp 187 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,106 basehttp 187 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,106 basehttp 187 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,108 basehttp 187 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,110 basehttp 187 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,112 basehttp 187 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,114 basehttp 187 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,116 basehttp 187 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,120 basehttp 187 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,120 basehttp 187 "GET /admin/jsi18n/ HTTP/1.1" 200 8603
+INFO 2024-11-06 16:45:07,120 basehttp 187 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,122 basehttp 187 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,123 basehttp 187 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,125 basehttp 187 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,126 basehttp 187 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,129 basehttp 187 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,130 basehttp 187 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,131 basehttp 187 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,131 basehttp 187 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,136 basehttp 187 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2024-11-06 16:45:07,138 basehttp 187 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2024-11-12 10:47:24,489 autoreload 677 Watching for file changes with StatReloader
+WARNING 2024-11-12 10:47:32,561 log 241 Not Found: /
+WARNING 2024-11-12 10:47:32,561 basehttp 187 "GET / HTTP/1.1" 404 2663
+WARNING 2024-11-12 10:47:33,119 log 241 Not Found: /favicon.ico
+WARNING 2024-11-12 10:47:33,120 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2714

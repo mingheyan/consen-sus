@@ -11,5 +11,6 @@ def send_mail_view(request):
     to_user = request.GET.get('user')
     # 异步发送
     res = send_email.delay(to_user)
+
     print(res.id)
     return HttpResponse('邮件已发送，id号为%s' % res.id)

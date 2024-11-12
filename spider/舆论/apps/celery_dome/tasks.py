@@ -31,9 +31,6 @@ class SendEmailTask(Task):
 # 以后使用shared_task 替换掉 app.task
 
 # 任务函数
-@shared_task
-def add(a, b):
-    return a + b
 
 
 @shared_task
@@ -87,7 +84,7 @@ def celery_send_sms_code():
     # CCP().send_template_sms(mobile, [code, 5], 1)
     print('短信业务代码调用成功...')
 
-celery_send_sms_code.delay()
+# celery_send_sms_code.delay()
 
 my_task_instance = MyTask()
 # 使用 shared_task 装饰器装饰一个函数
