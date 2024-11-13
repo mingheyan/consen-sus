@@ -108,7 +108,7 @@ class Pin:
                 "verifyFp": "verify_m2d7y9b9_1NSDSkgX_dRSE_4PYg_BRCo_yw9zIBOz5z70",
                 "fp": "verify_m2d7y9b9_1NSDSkgX_dRSE_4PYg_BRCo_yw9zIBOz5z70",
                 "msToken": "-pOEMl1bLGLL1utewvXLpRpYoU7msYk6Grx3szOramctyJgnNDs4g9wqi9iztjV43veWzw_ZKAJR0CvxdUgXPUcO94h0vpn9Vp5twZ1Y3DR8op0wQ8uF14k8c-Q6xo2FwmrHJs3NJK5Y9o5t_ewZLuSEmbi7h0N3GVtAnjW9qraKvpm79qvbdMQ=",
-                "a_bogus": "DfsRDq77dNWncVFtmCJ8yleUCHyArB8yVlTKbooPSxu7YZzOVSNxoNGxcxLcQIduRWpzkHVHbD0/YdVcBTUsZ9HkumpkuhwSc0C9nz6L0HppYBvh91j0SJtTokBxAbYuQA1JxoXvIUpEhxFIhNaiUr-nS/NysO0QK3xWkm7iSV-Z6T0Gf3cwHE=="
+                # "a_bogus": "DfsRDq77dNWncVFtmCJ8yleUCHyArB8yVlTKbooPSxu7YZzOVSNxoNGxcxLcQIduRWpzkHVHbD0/YdVcBTUsZ9HkumpkuhwSc0C9nz6L0HppYBvh91j0SJtTokBxAbYuQA1JxoXvIUpEhxFIhNaiUr-nS/NysO0QK3xWkm7iSV-Z6T0Gf3cwHE=="
             }
             # print('剩余评论：',self.all_comments-params['cursor'])
             self.js(params)
