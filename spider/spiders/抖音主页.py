@@ -55,7 +55,7 @@ class Douyin:
                 #视频链接
                 hrefs= reuslut['aweme_list'][i]['video']['play_addr']['url_list']
                 awesome_id =reuslut['aweme_list'][i]['aweme_id']
-                #标题
+                #标题自动化0.py
                 title = reuslut['aweme_list'][i]["desc"]
                 # 评论数
                 comment = reuslut['aweme_list'][i]['statistics']['comment_count']

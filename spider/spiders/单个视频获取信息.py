@@ -169,7 +169,7 @@ class Pin:
         import json
         try:
             n=input('输入登录账号：')
-            with open('cookies{}.json'.format(n), 'r', encoding='utf-8') as f:
+            with open('cookies_{}.json'.format(n), 'r', encoding='utf-8') as f:
                 cookies = json.load(f)
                 print(cookies)
             cookies_dict = {cookie['name']: cookie['value'] for cookie in cookies if
