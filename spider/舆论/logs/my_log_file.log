@@ -1,0 +1,27 @@
+2024-10-31 20:15:54.006 | SUCCESS  | 测试2.py:15 - ✅ This is a success message
+2024-10-31 20:15:54.007 | ERROR    | 测试2.py:15 - ❌ This is an error message
+2024-10-31 20:15:54.008 | INFO     | 测试2.py:15 - 🚀 This is an info message
+2024-10-31 20:17:11.573 | SUCCESS  | 测试2.py:15 - ✅ This is a success message
+2024-10-31 20:17:11.577 | ERROR    | 测试2.py:15 - ❌ This is an error message
+2024-10-31 20:17:11.577 | INFO     | 测试2.py:15 - 🚀 This is an info message
+2024-10-31 20:17:11.578 | SUCCESS  | 测试2.py:20 - ss
+2024-10-31 20:18:12.176 | SUCCESS  | 测试2.py:23 - ✅ This is a success message
+2024-10-31 20:18:12.177 | ERROR    | 测试2.py:23 - ❌ This is an error message
+2024-10-31 20:18:12.177 | INFO     | 测试2.py:23 - 🚀 This is an info message
+2024-10-31 20:18:51.047 | SUCCESS  | 测试2.py:23 - ✅ This is a success message
+2024-10-31 20:18:51.049 | ERROR    | 测试2.py:23 - ❌ This is an error message
+2024-10-31 20:18:51.049 | INFO     | 测试2.py:23 - 🚀 This is an info message
+2024-10-31 20:25:06.334 | SUCCESS  | 测试2.py:23 - ✅ This is a success message
+2024-10-31 20:25:06.335 | ERROR    | 测试2.py:23 - ❌ This is an error message
+2024-10-31 20:25:06.336 | INFO     | 测试2.py:23 - 🚀 This is an info message
+2024-10-31 20:27:13.635 | SUCCESS  | 测试2.py:23 - ✅ This is a success message
+2024-10-31 20:27:13.637 | ERROR    | 测试2.py:23 - ❌ This is an error message
+2024-10-31 20:27:13.637 | INFO     | 测试2.py:23 - 🚀 This is an info message
+2024-10-31 20:32:17.750 | SUCCESS  | 测试3.py:23 - ✅ This is a success message
+2024-10-31 20:32:17.765 | ERROR    | 测试3.py:23 - ❌ This is an error message
+2024-10-31 20:32:17.765 | INFO     | 测试3.py:23 - 🚀 This is an info message
+2024-10-31 20:33:53.256 |SUCCESS | __main__ : 测试3:  33 | my-loguru | - This is a success message
+2024-10-31 20:34:19.370 |SUCCESS | __main__ : 测试3:  33 | my-loguru | - This is a success message
+2024-10-31 20:34:31.513 | SUCCESS  | 测试3.py:23 - ✅ This is a success message
+2024-10-31 20:34:31.529 | ERROR    | 测试3.py:23 - ❌ This is an error message
+2024-10-31 20:34:31.529 | INFO     | 测试3.py:23 - 🚀 This is an info message
