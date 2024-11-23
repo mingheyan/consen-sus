@@ -5,7 +5,7 @@ import home from '../views/home.vue';
  
 const routes: Array<RouteRecordRaw> = [
   {
-    path: '/',
+    path: '/login',
     name: 'login',
     component: login,
     // children: [

@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-'simpleui',
+    'simpleui',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -39,10 +39,10 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "apps.celery_dome.apps.CeleryDomeConfig",
-'django_celery_beat',
-'django_celery_results',
+    'django_celery_beat',
+    'django_celery_results',
     "apps.users.apps.UsersConfig",
-'corsheaders',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
